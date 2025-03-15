@@ -1,0 +1,15 @@
+D:\_Pruebas_Evaluacion\Observers\obj\Debug\net5.0\Observers.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Pruebas_Evaluacion\Observers\obj\Debug\net5.0\Observers.AssemblyInfoInputs.cache
+D:\_Pruebas_Evaluacion\Observers\obj\Debug\net5.0\Observers.AssemblyInfo.cs
+D:\_Pruebas_Evaluacion\Observers\obj\Debug\net5.0\Observers.csproj.CoreCompileInputs.cache
+D:\_Pruebas_Evaluacion\Observers\bin\Debug\net5.0\Observers.deps.json
+D:\_Pruebas_Evaluacion\Observers\bin\Debug\net5.0\Observers.dll
+D:\_Pruebas_Evaluacion\Observers\bin\Debug\net5.0\ref\Observers.dll
+D:\_Pruebas_Evaluacion\Observers\bin\Debug\net5.0\Observers.pdb
+D:\_Pruebas_Evaluacion\Observers\bin\Debug\net5.0\Domain.dll
+D:\_Pruebas_Evaluacion\Observers\bin\Debug\net5.0\Domain.pdb
+D:\_Pruebas_Evaluacion\Observers\obj\Debug\net5.0\Observers.csproj.AssemblyReference.cache
+D:\_Pruebas_Evaluacion\Observers\obj\Debug\net5.0\Observers.csproj.CopyComplete
+D:\_Pruebas_Evaluacion\Observers\obj\Debug\net5.0\Observers.dll
+D:\_Pruebas_Evaluacion\Observers\obj\Debug\net5.0\ref\Observers.dll
+D:\_Pruebas_Evaluacion\Observers\obj\Debug\net5.0\Observers.pdb

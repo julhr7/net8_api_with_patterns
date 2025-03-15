@@ -1,0 +1,5 @@
+D:\_Pruebas_Evaluacion\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.AssemblyReference.cache
+D:\_Pruebas_Evaluacion\Infrastructure\obj\Debug\net5.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Pruebas_Evaluacion\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfoInputs.cache
+D:\_Pruebas_Evaluacion\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfo.cs
+D:\_Pruebas_Evaluacion\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CoreCompileInputs.cache
